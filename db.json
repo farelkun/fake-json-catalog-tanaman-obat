@@ -1,5 +1,5 @@
 {
-    "plant": [
+    "plants": [
         {
             "id": "1",
             "name": "Pulai",
@@ -151,7 +151,7 @@
             "image": "assets/images/tanaman-obat/aju-elalan.png"
           }
     ],
-    "rare_plant": [
+    "rare_plants": [
       {
            "id": 1,
            "plant_id": 2
